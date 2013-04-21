@@ -1,0 +1,7 @@
+<?php 
+/**
+* I created this file by opening the folder and clicking "new text document" *then typing in the name "index.php" and then opening to type this out.
+**?
+
+
+?>
